@@ -1,0 +1,12 @@
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\bin\Debug\netstandard2.0\SqliteExample.deps.json
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\bin\Debug\netstandard2.0\SqliteExample.dll
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.csprojAssemblyReference.cache
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.csproj.CoreCompileInputs.cache
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.AssemblyInfoInputs.cache
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.AssemblyInfo.cs
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\bin\Debug\netstandard2.0\SqliteExample.pdb
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.dll
+C:\git\victorduartedefreitas\sqlite-example\src\SqliteExample\SqliteExample\SqliteExample\obj\Debug\netstandard2.0\SqliteExample.pdb
